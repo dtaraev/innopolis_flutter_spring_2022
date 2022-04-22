@@ -1,9 +1,6 @@
-# lesson_platform_channels
+# lesson_plugins
 
 A new flutter plugin project.
-
-## Slides
-* [Available here](https://disk.yandex.ru/d/LkZNWE5YxODxow)
 
 ## Getting Started
 
